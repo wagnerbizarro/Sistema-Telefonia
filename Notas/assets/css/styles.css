@@ -1,0 +1,9 @@
+.btn:hover {
+}
+
+.btn:hover {
+  color: var(--bs-btn-disabled-border-color);
+  background-color: var(--bs-btn-disabled-color);
+  border-color: var(--bs-btn-disabled-color);
+}
+

@@ -1,0 +1,6 @@
+.btn:hover {
+  color: var(--bs-btn-bg);
+  background-color: var(--bs-btn-active-color);
+  border-color: var(--bs-btn-active-color);
+}
+
